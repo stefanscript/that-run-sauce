@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: That Run Sauce
-image: /img/home-jumbotron.jpg
+image: /img/andrea-leopardi-qvd3xht9txa-unsplash.jpg
 heading: That Run Sauce
 subheading: All things running
 mainpitch:
